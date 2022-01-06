@@ -10,4 +10,4 @@ accuracy is above 98%
 
 I use Streamlit to create web app
 
-https://github.com/avanishsingh07/Malicious-URL-Detector/blob/main/WhatsApp%20Video%202022-01-06%20at%206.10.04%20PM.mp4
+<img src="https://github.com/avanishsingh07/Malicious-URL-Detector/blob/main/w029zX.mp4">
