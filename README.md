@@ -11,3 +11,5 @@ accuracy is above 98%
 I use Streamlit to create web app
 
 ![](https://github.com/avanishsingh07/Malicious-URL-Detector/blob/main/w029zX.gif)
+
+![](https://github.com/avanishsingh07/Malicious-URL-Detector/blob/main/K8zXN8.gif)
